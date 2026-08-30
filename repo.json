@@ -23,7 +23,8 @@
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/xiaoba.tendies",
+      "download": "packages/xiaoba.tendies",
+      "sha256": "THAY_MA_SHA256_FILE_XIAOBA_VAP_DAY",
       "size": 14533669,
       "supportedOS": [
         {
@@ -67,7 +68,8 @@
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/wanglin.tendies",
+      "download": "packages/wanglin.tendies",
+      "sha256": "THAY_MA_SHA256_FILE_WANGLIN_VAO_DAY",
       "size": 1451272,
       "supportedOS": [
         {
@@ -156,6 +158,7 @@
         "assets/ANH6.png"
       ],
       "download": "packages/DazzCamPro.3105",
+      "sha256": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
       "size": 1082,
       "password": "wmcry",
       "supportedOS": [
