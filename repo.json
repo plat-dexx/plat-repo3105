@@ -184,6 +184,92 @@
       "changelog": "Phát hành phiên bản đầu tiên của Dazz Cam Pro.",
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "cute-cat-dialer",
+      "kind": "patch",
+      "name": "Cute Cat Dialer",
+      "author": "ABC",
+      "version": "1.0.0",
+      "summary": "Share Freee.",
+      "description": "Bàn Phím Dialer",
+      "category": "Testing",
+      "tags": [
+        "Dialer"
+      ],
+      "publishedAt": "2026-08-21T10:00:00Z",
+      "icon": "assets/ANH7.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "",
+      "sha256": "",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
+      "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "cute-cat-dialer-2",
+      "kind": "patch",
+      "name": "Cute Cat Dialer 2",
+      "author": "ABC",
+      "version": "1.0.0",
+      "summary": "Share Freee.",
+      "description": "Bàn Phím Dialer",
+      "category": "Testing",
+      "tags": [
+        "Dialer"
+      ],
+      "publishedAt": "2026-08-21T10:00:00Z",
+      "icon": "assets/ANH8.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "",
+      "sha256": "",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
+      "featured": true,
+      "isPrivate": false
     }
   ]
 }
