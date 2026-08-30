@@ -18,11 +18,13 @@
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/ANH2.png",
       "screenshots": [
         "assets/ANH6.png"
       ],
       "download": "packages/xiaoba.tendies",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 14533669,
       "supportedOS": [
         {
@@ -44,6 +46,7 @@
           ]
         }
       ],
+      "changelog": "Phát hành phiên bản đầu tiên của Chika Wallpaper.",
       "featured": false,
       "isPrivate": false
     },
@@ -60,11 +63,13 @@
         "Wallpaper",
         "Custom"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/ANH3.png",
       "screenshots": [
         "assets/ANH6.png"
       ],
       "download": "packages/wanglin.tendies",
+      "sha256": "f512529272379d7f02d09101f3f721d72566738b556b02a24d86bfa3e593eeea",
       "size": 1451272,
       "supportedOS": [
         {
@@ -86,6 +91,7 @@
           ]
         }
       ],
+      "changelog": "Phát hành phiên bản đầu tiên của Vương Lâm Wallpaper.",
       "featured": false,
       "isPrivate": false
     },
@@ -101,13 +107,15 @@
       "tags": [
         "Patch"
       ],
+      "publishedAt": "2026-08-21T10:00:00Z",
       "icon": "assets/ANH4.png",
       "screenshots": [
         "assets/ANH6.png"
       ],
       "download": "packages/CapcutPro.3105",
-      "password": "3105",
+      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
       "size": 34303,
+      "password": "3105",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -128,6 +136,7 @@
           ]
         }
       ],
+      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
       "featured": false,
       "isPrivate": false
     },
@@ -143,13 +152,15 @@
       "tags": [
         "Patch"
       ],
+      "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/ANH5.png",
       "screenshots": [
         "assets/ANH6.png"
       ],
       "download": "packages/DazzCamPro.3105",
-      "password": "wmcry",
+      "sha256": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
       "size": 1082,
+      "password": "wmcry",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -170,6 +181,7 @@
           ]
         }
       ],
+      "changelog": "Phát hành phiên bản đầu tiên của Dazz Cam Pro.",
       "featured": false,
       "isPrivate": false
     }
