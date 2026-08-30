@@ -1,83 +1,76 @@
 {
-  "schemaVersion": 1,
-  "identifier": "com.yangjiii.platdex",
   "name": "Plat Dex Repo",
-  "description": "Repo Nguồn Plat•Dex",
-  "icon": "assets/ANH1.JPG",
-  "packages": [
+  "identifier": "com.yangjiii.platdex",
+  "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH1.JPG",
+  "website": "https://github.com/plat-dexx/plat-repo3105",
+  "apps": [
     {
-      "identifier": "com.yangjiii.Chika-Wallpaper",
-      "kind": "wallpaper",
       "name": "Chika Wallpaper",
-      "author": "Plat•Dex",
-      "version": "1.0.0",
-      "summary": "Tendis LGBT Wibu",
-      "description": "Tendies Chikawa",
-      "category": "Wallpaper",
-      "tags": ["Wallpaper", "Custom"],
-      "icon": "assets/ANH2.JPG",
-      "screenshots": ["assets/ANH6.PNG"],
-      "download": "packages/xiaoba.tendies",
-      "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
-      "size": 14533669,
-      "featured": false,
-      "isPrivate": false
+      "bundleIdentifier": "com.yangjiii.Chika-Wallpaper",
+      "developerName": "Plat•Dex",
+      "subtitle": "Tendis LGBT Wibu",
+      "localizedDescription": "Tendies Chikawa",
+      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH2.JPG",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-08-30",
+          "size": 14533669,
+          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/xiaoba.tendies",
+          "localizedDescription": "Phiên bản đầu tiên"
+        }
+      ]
     },
     {
-      "identifier": "com.yangjiii.vuonglam",
-      "kind": "wallpaper",
       "name": "Vương Lâm",
-      "author": "Plat•Dex",
-      "version": "1.0.0",
-      "summary": "Ảnh Vương Tử 3D",
-      "description": "Xấu Lắm Đừng Cài",
-      "category": "Wallpaper",
-      "tags": ["Wallpaper", "Custom"],
-      "icon": "assets/ANH3.JPG",
-      "screenshots": ["assets/ANH6.PNG"],
-      "download": "packages/wanglin.tendies",
-      "sha256": "b08d0c563241639c90806407ef3aea5d1e2c83125b1f555bd7d1702900836280",
-      "size": 1451272,
-      "featured": false,
-      "isPrivate": false
+      "bundleIdentifier": "com.yangjiii.vuonglam",
+      "developerName": "Plat•Dex",
+      "subtitle": "Ảnh Vương Tử 3D",
+      "localizedDescription": "Xấu Lắm Đừng Cài",
+      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH3.JPG",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-08-30",
+          "size": 1451272,
+          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/wanglin.tendies",
+          "localizedDescription": "Phiên bản đầu tiên"
+        }
+      ]
     },
     {
-      "identifier": "com.yangjiii.Capcut-Pro",
-      "kind": "patch",
       "name": "Capcut Pro",
-      "author": "YangJiii",
-      "version": "1.0.0",
-      "summary": "Nâng Capcut lên Pro miễn phí, vĩnh viễn",
-      "description": "Sau Khi nâng không được login tài khoản",
-      "category": "Patch",
-      "tags": ["Patch"],
-      "icon": "assets/ANH4.PNG",
-      "screenshots": ["assets/ANH6.PNG"],
-      "download": "packages/CapcutPro.3105",
-      "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
-      "password": "3105",
-      "size": 34303,
-      "featured": false,
-      "isPrivate": false
+      "bundleIdentifier": "com.yangjiii.Capcut-Pro",
+      "developerName": "YangJiii",
+      "subtitle": "Nâng Capcut lên Pro miễn phí, vĩnh viễn",
+      "localizedDescription": "Sau Khi nâng không được login tài khoản. Password: 3105",
+      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH4.PNG",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-08-30",
+          "size": 34303,
+          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/CapcutPro.3105",
+          "localizedDescription": "Phiên bản đầu tiên"
+        }
+      ]
     },
     {
-      "identifier": "com.wmcry.Dazz-Cam-Pro",
-      "kind": "patch",
       "name": "Dazz Cam Pro",
-      "author": "W/m Cryy",
-      "version": "1.0.0",
-      "summary": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
-      "description": "phù hợp cho những người đam mê chụp ảnh",
-      "category": "Patch",
-      "tags": ["Patch"],
-      "icon": "assets/ANH5.PNG",
-      "screenshots": ["assets/ANH6.PNG"],
-      "download": "packages/DazzCamPro.3105",
-      "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
-      "size": 1082,
-      "password": "wmcry",
-      "featured": false,
-      "isPrivate": false
+      "bundleIdentifier": "com.wmcry.Dazz-Cam-Pro",
+      "developerName": "W/m Cryy",
+      "subtitle": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
+      "localizedDescription": "Phù hợp cho những người đam mê chụp ảnh. Password: wmcry",
+      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH5.PNG",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-08-30",
+          "size": 1082,
+          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/DazzCamPro.3105",
+          "localizedDescription": "Phiên bản đầu tiên"
+        }
+      ]
     }
   ]
 }
