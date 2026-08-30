@@ -14,33 +14,16 @@
       "summary": "Tendis LGBT Wibu",
       "description": "Tendies Chikawa",
       "category": "Wallpaper",
-      "tags": [
-        "Wallpaper",
-        "Custom"
-      ],
+      "tags": ["Wallpaper", "Custom"],
       "icon": "assets/ANH2.JPG",
+      "screenshots": ["assets/ANH2.JPG"],
       "download": "packages/xiaoba.tendies",
       "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
       "size": 14533669,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false
@@ -54,33 +37,16 @@
       "summary": "Ảnh Vương Tử 3D",
       "description": "Xấu Lắm Đừng Cài",
       "category": "Wallpaper",
-      "tags": [
-        "Wallpaper",
-        "Custom"
-      ],
+      "tags": ["Wallpaper", "Custom"],
       "icon": "assets/ANH3.JPG",
+      "screenshots": ["assets/ANH3.JPG"],
       "download": "packages/Apple-Bird-.tendies",
       "sha256": "b08d0c563241639c90806407ef3aea5d1e2c83125b1f555bd7d1702900836280",
       "size": 1451272,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false
@@ -94,33 +60,17 @@
       "summary": "Nâng Capcut lên Pro miễn phí, vĩnh viễn",
       "description": "Sau Khi nâng không được login tài khoản",
       "category": "Patch",
-      "tags": [
-        "Patch"
-      ],
+      "tags": ["Patch"],
       "icon": "assets/ANH4.PNG",
+      "screenshots": ["assets/ANH4.PNG"],
       "download": "packages/CapcutPro.3105",
       "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
       "password": "3105",
       "size": 34303,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false
@@ -134,33 +84,17 @@
       "summary": "Nâng Dazz Cam lên Pro miễn phí, vĩnh viễn",
       "description": "phù hợp cho những người đam mê chụp ảnh",
       "category": "Patch",
-      "tags": [
-        "Patch"
-      ],
+      "tags": ["Patch"],
       "icon": "assets/ANH5.PNG",
+      "screenshots": ["assets/ANH5.PNG"],
       "download": "packages/Dazz Cam Pro (WmCry).3105",
       "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
       "size": 1082,
       "password": "wmcry",
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
       ],
       "featured": false,
       "isPrivate": false
