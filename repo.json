@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.yangjiii.Plat-Dex",
-  "name": "Plat•Dex Repo Lỏ",
+  "identifier": "com.yangjiii.platdex",
+  "name": "Plat Dex Repo",
   "description": "Repo Nguồn Plat•Dex",
   "icon": "assets/ANH1.JPG",
   "packages": [
@@ -20,9 +20,6 @@
       "download": "packages/xiaoba.tendies",
       "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
       "size": 14533669,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
       "featured": false,
       "isPrivate": false
     },
@@ -38,12 +35,9 @@
       "tags": ["Wallpaper", "Custom"],
       "icon": "assets/ANH3.JPG",
       "screenshots": ["assets/ANH6.PNG"],
-      "download": "packages/Apple-Bird-.tendies",
+      "download": "packages/wanglin.tendies",
       "sha256": "b08d0c563241639c90806407ef3aea5d1e2c83125b1f555bd7d1702900836280",
       "size": 1451272,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
       "featured": false,
       "isPrivate": false
     },
@@ -63,9 +57,6 @@
       "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
       "password": "3105",
       "size": 34303,
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
       "featured": false,
       "isPrivate": false
     },
@@ -85,9 +76,6 @@
       "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
       "size": 1082,
       "password": "wmcry",
-      "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" }
-      ],
       "featured": false,
       "isPrivate": false
     }
