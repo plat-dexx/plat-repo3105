@@ -202,8 +202,8 @@
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "",
-      "sha256": "",
+      "download": "packages/Cute-cat.3105",
+      "sha256": "84422eaeb1cf1ac80125e151c655f8c31bad45431ad114f1d5ab401e985941a9",
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -229,24 +229,24 @@
       "isPrivate": false
     },
     {
-      "identifier": "cute-cat-dialer-2",
+      "identifier": "shin",
       "kind": "patch",
-      "name": "Cute Cat Dialer 2",
+      "name": "Shin",
       "author": "ABC",
       "version": "1.0.0",
       "summary": "Share Freee.",
-      "description": "Bàn Phím Dialer",
+      "description": "Shin Package",
       "category": "Testing",
       "tags": [
-        "Dialer"
+        "Shin"
       ],
       "publishedAt": "2026-08-21T10:00:00Z",
       "icon": "assets/ANH8.png",
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "",
-      "sha256": "",
+      "download": "packages/Shin.3105",
+      "sha256": "76f0432a9538df959a376f972929d2cfcc7d20294b70cf7778d57880c8cf0d23",
       "supportedOS": [
         {
           "minimum": "17.0",
