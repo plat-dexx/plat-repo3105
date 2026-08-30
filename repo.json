@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "identifier": "com.yangjiii.Plat•Dex",
+  "identifier": "com.yangjiii.Plat-Dex",
   "name": "Plat•Dex Repo Lỏ",
   "description": "Repo Nguồn Plat•Dex",
   "icon": "assets/ANH1.JPG",
   "packages": [
     {
-      "identifier": "Chika-Wallpaper",
+      "identifier": "com.yangjiii.Chika-Wallpaper",
       "kind": "Wallpaper",
       "name": "Chika Wallpaper",
       "author": "Plat•Dex",
@@ -21,15 +21,13 @@
       "sha256": "e7bf33a85304a61e1d9174fb72dc3d1499cae6e12db267e1c13df39c13ba7248",
       "size": 14533669,
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" },
-        { "minimum": "26.0", "maximum": "26.6.1" },
-        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
+        { "minimum": "17.0", "maximum": "18.7.1" }
       ],
       "featured": false,
       "isPrivate": false
     },
     {
-      "identifier": "Vương Lâm",
+      "identifier": "com.yangjiii.vuonglam",
       "kind": "Wallpaper",
       "name": "Vương Lâm",
       "author": "Plat•Dex",
@@ -44,15 +42,13 @@
       "sha256": "b08d0c563241639c90806407ef3aea5d1e2c83125b1f555bd7d1702900836280",
       "size": 1451272,
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" },
-        { "minimum": "26.0", "maximum": "26.6.1" },
-        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
+        { "minimum": "17.0", "maximum": "18.7.1" }
       ],
       "featured": false,
       "isPrivate": false
     },
     {
-      "identifier": "Capcut-Pro",
+      "identifier": "com.yangjiii.Capcut-Pro",
       "kind": "patch",
       "name": "Capcut Pro",
       "author": "YangJiii",
@@ -68,15 +64,13 @@
       "password": "3105",
       "size": 34303,
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" },
-        { "minimum": "26.0", "maximum": "26.6.1" },
-        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
+        { "minimum": "17.0", "maximum": "18.7.1" }
       ],
       "featured": false,
       "isPrivate": false
     },
     {
-      "identifier": "Dazz-Cam-Pro",
+      "identifier": "com.wmcry.Dazz-Cam-Pro",
       "kind": "patch",
       "name": "Dazz Cam Pro",
       "author": "W/m Cryy",
@@ -87,14 +81,12 @@
       "tags": ["Patch"],
       "icon": "assets/ANH5.PNG",
       "screenshots": ["assets/ANH6.PNG"],
-      "download": "packages/Dazz Cam Pro (WmCry).3105",
+      "download": "packages/DazzCamPro.3105",
       "sha256": "a192b2470cf3766d407a8c9957ec1f92e121ee112bbb983d9b60b21b6387b9ea",
       "size": 1082,
       "password": "wmcry",
       "supportedOS": [
-        { "minimum": "17.0", "maximum": "18.7.1" },
-        { "minimum": "26.0", "maximum": "26.6.1" },
-        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q","24A5370h","24A5380h","24A5390f"] }
+        { "minimum": "17.0", "maximum": "18.7.1" }
       ],
       "featured": false,
       "isPrivate": false
