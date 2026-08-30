@@ -1,74 +1,177 @@
 {
-  "name": "Plat Dex Repo",
+  "schemaVersion": 1,
   "identifier": "com.yangjiii.platdex",
-  "apps": [
+  "name": "Plat Dex Repo",
+  "description": "Mã Nguồn Repo Của Plat Dex",
+  "icon": "assets/ANH1.png",
+  "packages": [
     {
+      "identifier": "Chika-Wallpaper",
+      "kind": "wallpaper",
       "name": "Chika Wallpaper",
-      "bundleIdentifier": "com.yangjiii.Chika-Wallpaper",
-      "developerName": "Plat•Dex",
-      "subtitle": "Tendis LGBT Wibu",
-      "localizedDescription": "Tendies Chikawa",
-      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH2.JPG",
-      "versions": [
+      "author": "Plat•Dex",
+      "version": "1.0.0",
+      "summary": "Tendis LGBT Wibu",
+      "description": "Tendies Chikawa",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/ANH2.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/xiaoba.tendies",
+      "size": 14533669,
+      "supportedOS": [
         {
-          "version": "1.0.0",
-          "date": "2026-08-30T00:00:00Z",
-          "size": 14533669,
-          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/xiaoba.tendies",
-          "localizedDescription": "Gói hình nền"
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
         }
-      ]
+      ],
+      "featured": false,
+      "isPrivate": false
     },
     {
+      "identifier": "Vuong-Lam",
+      "kind": "wallpaper",
       "name": "Vương Lâm",
-      "bundleIdentifier": "com.yangjiii.vuonglam",
-      "developerName": "Plat•Dex",
-      "subtitle": "Ảnh Vương Tử 3D",
-      "localizedDescription": "Xấu Lắm Đừng Cài",
-      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH3.JPG",
-      "versions": [
+      "author": "Plat•Dex",
+      "version": "1.0.0",
+      "summary": "Ảnh Vương Tử 3D",
+      "description": "Xấu Lắm Đừng Cài",
+      "category": "Wallpaper",
+      "tags": [
+        "Wallpaper",
+        "Custom"
+      ],
+      "icon": "assets/ANH3.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/wanglin.tendies",
+      "size": 1451272,
+      "supportedOS": [
         {
-          "version": "1.0.0",
-          "date": "2026-08-30T00:00:00Z",
-          "size": 1451272,
-          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/wanglin.tendies",
-          "localizedDescription": "Gói hình nền"
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
         }
-      ]
+      ],
+      "featured": false,
+      "isPrivate": false
     },
     {
+      "identifier": "Capcut-Pro",
+      "kind": "patch",
       "name": "Capcut Pro",
-      "bundleIdentifier": "com.yangjiii.Capcut-Pro",
-      "developerName": "YangJiii",
-      "subtitle": "Nâng Capcut lên Pro miễn phí vĩnh viễn",
-      "localizedDescription": "Sau khi nâng không được login tài khoản. Password: 3105",
-      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH4.PNG",
-      "versions": [
+      "author": "YangJiii",
+      "version": "1.0.0",
+      "summary": "Nâng Capcut lên Pro miễn phí vĩnh viễn",
+      "description": "Sau khi nâng không được login tài khoản",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "icon": "assets/ANH4.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/CapcutPro.3105",
+      "password": "3105",
+      "size": 34303,
+      "supportedOS": [
         {
-          "version": "1.0.0",
-          "date": "2026-08-30T00:00:00Z",
-          "size": 34303,
-          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/CapcutPro.3105",
-          "localizedDescription": "Bản patch Capcut"
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
         }
-      ]
+      ],
+      "featured": false,
+      "isPrivate": false
     },
     {
+      "identifier": "Dazz-Cam-Pro",
+      "kind": "patch",
       "name": "Dazz Cam Pro",
-      "bundleIdentifier": "com.wmcry.Dazz-Cam-Pro",
-      "developerName": "W/m Cryy",
-      "subtitle": "Nâng Dazz Cam lên Pro miễn phí vĩnh viễn",
-      "localizedDescription": "Phù hợp cho những người đam mê chụp ảnh. Password: wmcry",
-      "iconURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/assets/ANH5.PNG",
-      "versions": [
+      "author": "W/m Cryy",
+      "version": "1.0.0",
+      "summary": "Nâng Dazz Cam lên Pro miễn phí vĩnh viễn",
+      "description": "Phù hợp cho những người đam mê chụp ảnh",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "icon": "assets/ANH5.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/DazzCamPro.3105",
+      "password": "wmcry",
+      "size": 1082,
+      "supportedOS": [
         {
-          "version": "1.0.0",
-          "date": "2026-08-30T00:00:00Z",
-          "size": 1082,
-          "downloadURL": "https://raw.githubusercontent.com/plat-dexx/plat-repo3105/main/packages/DazzCamPro.3105",
-          "localizedDescription": "Bản patch Dazz Cam"
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
         }
-      ]
+      ],
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
