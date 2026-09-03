@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "identifier": "com.yangjiii.platdex",
   "name": "Plat Dex Repo",
-  "description": "Mã Nguồn Repo Của Plat Dex",
+  "description": "Repo Của Plat Dex",
   "icon": "assets/ANH1.png",
   "packages": [
     {
@@ -46,7 +46,7 @@
           ]
         }
       ],
-      "changelog": "Phát hành phiên bản đầu tiên của Chika Wallpaper.",
+      "changelog": "Phiên Bản Đầu Tiên.",
       "featured": false,
       "isPrivate": false
     },
@@ -56,7 +56,7 @@
       "name": "Vương Lâm",
       "author": "Plat•Dex",
       "version": "1.0.0",
-      "summary": "Ảnh Vương Tử 3D",
+      "summary": "Wallpaper Vương Lâm",
       "description": "Xấu Lắm Đừng Cài",
       "category": "Wallpaper",
       "tags": [
@@ -91,7 +91,7 @@
           ]
         }
       ],
-      "changelog": "Phát hành phiên bản đầu tiên của Vương Lâm Wallpaper.",
+      "changelog": "Phiên Bản Đầu Tiên.",
       "featured": false,
       "isPrivate": false
     },
@@ -99,7 +99,7 @@
       "identifier": "Capcut-Pro",
       "kind": "patch",
       "name": "Capcut Pro",
-      "author": "YangJiii",
+      "author": "Plat Dex",
       "version": "1.0.0",
       "summary": "Nâng Capcut lên Pro miễn phí vĩnh viễn",
       "description": "Sau khi nâng không được login tài khoản",
@@ -136,7 +136,7 @@
           ]
         }
       ],
-      "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
+      "changelog": "Thử Nghiệm Phiên Bản.",
       "featured": false,
       "isPrivate": false
     },
@@ -144,7 +144,7 @@
       "identifier": "Dazz-Cam-Pro",
       "kind": "patch",
       "name": "Dazz Cam Pro",
-      "author": "W/m Cryy",
+      "author": "PLat Dex",
       "version": "1.0.0",
       "summary": "Nâng Dazz Cam lên Pro miễn phí vĩnh viễn",
       "description": "Phù hợp cho những người đam mê chụp ảnh",
@@ -181,7 +181,7 @@
           ]
         }
       ],
-      "changelog": "Phát hành phiên bản đầu tiên của Dazz Cam Pro.",
+      "changelog": "Phiên Bản Đầu Tiên.",
       "featured": false,
       "isPrivate": false
     },
