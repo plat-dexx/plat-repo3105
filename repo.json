@@ -191,9 +191,9 @@
       "version": "1.0.0",
       "summary": "Share Freee.",
       "description": "Bàn Phím Dialer",
-      "category": "Testing",
+      "category": "Telephone",
       "tags": [
-        "Testing"
+        "Telephone"
       ],
       "publishedAt": "2026-08-21T10:00:00Z",
       "icon": "assets/ANH7.png",
@@ -234,9 +234,9 @@
       "version": "1.0.0",
       "summary": "Share Freee.",
       "description": "Shin Package",
-      "category": "Testing",
+      "category": "Telephone",
       "tags": [
-        "Testing"
+        "Telephone"
       ],
       "publishedAt": "2026-08-21T10:00:00Z",
       "icon": "assets/ANH8.png",
