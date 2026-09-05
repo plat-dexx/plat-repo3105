@@ -268,6 +268,50 @@
       "changelog": "Nguồn thử nghiệm đầu tiên với mô tả và gallery ảnh preview.",
       "featured": true,
       "isPrivate": false
+    },
+    {
+      "identifier": "3d-neon-dialer",
+      "kind": "patch",
+      "name": "3D Neon",
+      "author": "Plat•Dex",
+      "version": "1.0.0",
+      "summary": "Giao diện bàn phím 3D Neon.",
+      "description": "Bàn Phím 3D Neon Dialer",
+      "category": "Telephone",
+      "tags": [
+        "Telephone"
+      ],
+      "publishedAt": "2026-09-05T10:00:00Z",
+      "icon": "assets/ANH9.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/3D Neon.3105",
+      "sha256": "397dbd675eb65257293b8d4fd1ad864fa794fea10f401193e70ebba0a9f6e3cc",
+      "size": 407447,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": true,
+      "isPrivate": false
     }
   ]
 }
