@@ -15,8 +15,7 @@
       "description": "Tendies Chikawa",
       "category": "Wallpaper",
       "tags": [
-        "Wallpaper",
-        "Custom"
+        "Wallpaper"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/ANH2.png",
@@ -46,7 +45,7 @@
           ]
         }
       ],
-      "changelog": "Phiên Bản Đầu Tiên.",
+      "changelog": "Phiên Bản Đầu Tiên.",
       "featured": false,
       "isPrivate": false
     },
@@ -60,8 +59,7 @@
       "description": "Xấu Lắm Đừng Cài",
       "category": "Wallpaper",
       "tags": [
-        "Wallpaper",
-        "Custom"
+        "Wallpaper"
       ],
       "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/ANH3.png",
@@ -91,7 +89,7 @@
           ]
         }
       ],
-      "changelog": "Phiên Bản Đầu Tiên.",
+      "changelog": "Phiên Bản Đầu Tiên.",
       "featured": false,
       "isPrivate": false
     },
@@ -136,7 +134,7 @@
           ]
         }
       ],
-      "changelog": "Thử Nghiệm Phiên Bản.",
+      "changelog": "Thử Nghiệm Phiên Bản.",
       "featured": false,
       "isPrivate": false
     },
@@ -181,7 +179,7 @@
           ]
         }
       ],
-      "changelog": "Phiên Bản Đầu Tiên.",
+      "changelog": "Phiên Bản Đầu Tiên.",
       "featured": false,
       "isPrivate": false
     },
@@ -195,7 +193,7 @@
       "description": "Bàn Phím Dialer",
       "category": "Testing",
       "tags": [
-        "Dialer"
+        "Testing"
       ],
       "publishedAt": "2026-08-21T10:00:00Z",
       "icon": "assets/ANH7.png",
@@ -238,7 +236,7 @@
       "description": "Shin Package",
       "category": "Testing",
       "tags": [
-        "Shin"
+        "Testing"
       ],
       "publishedAt": "2026-08-21T10:00:00Z",
       "icon": "assets/ANH8.png",
