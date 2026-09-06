@@ -316,7 +316,7 @@
     {
       "identifier": "Locket-gold",
       "kind": "patch",
-      "name": "Locket",
+      "name": "Locket Gold",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Nâng Locket miễn phí,vĩnh viễn",
@@ -354,6 +354,51 @@
           ]
         }
       ],
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "HackFF.3105",
+      "kind": "patch",
+      "name": "HackFF Cân Rank",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản HackFF Cân Rank.",
+      "description": "HackFF Cân Rank",
+      "category": "Game Cheat PlatDexx",
+      "tags": [
+        "Game Cheat PlatDexx"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH11.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/HackFF.3105",
+      "sha256": "e9138ffad0187873a8b7fdcddf158309e7b88538613db9962fa9f875ea35b2f5",
+      "size": 13242788,
+      "password": "YaBao",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
       "featured": false,
       "isPrivate": false
     }
