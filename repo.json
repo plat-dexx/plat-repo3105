@@ -9,7 +9,7 @@
       "identifier": "Chika-Wallpaper",
       "kind": "wallpaper",
       "name": "Chika Wallpaper",
-      "author": "Plat•Dex",
+      "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Tendis LGBT Wibu",
       "description": "Tendies Chikawa",
@@ -53,7 +53,7 @@
       "identifier": "Vuong-Lam",
       "kind": "wallpaper",
       "name": "Vương Lâm Wallpaper",
-      "author": "Plat•Dex",
+      "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Wallpaper Vương Lâm",
       "description": "Xấu Lắm Đừng Cài",
@@ -97,7 +97,7 @@
       "identifier": "Capcut-Pro",
       "kind": "patch",
       "name": "Capcut Pro",
-      "author": "Plat Dex",
+      "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Nâng Capcut lên Pro miễn phí vĩnh viễn",
       "description": "Sau khi nâng không được login tài khoản",
@@ -142,7 +142,7 @@
       "identifier": "Dazz-Cam-Pro",
       "kind": "patch",
       "name": "Dazz Cam Pro",
-      "author": "PLat Dex",
+      "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Nâng Dazz Cam lên Pro miễn phí vĩnh viễn",
       "description": "Phù hợp cho những người đam mê chụp ảnh",
@@ -187,7 +187,7 @@
       "identifier": "cute-cat-dialer",
       "kind": "patch",
       "name": "Cute Cat Dialer",
-      "author": "ABC",
+      "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Share Freee.",
       "description": "Bàn Phím Dialer",
@@ -230,7 +230,7 @@
       "identifier": "shin",
       "kind": "patch",
       "name": "Shin Dialer",
-      "author": "ABC",
+      "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Share Freee.",
       "description": "Shin Package",
@@ -273,7 +273,7 @@
       "identifier": "3d-neon-dialer",
       "kind": "patch",
       "name": "3D Neon",
-      "author": "Plat•Dex",
+      "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Giao diện bàn phím 3D Neon.",
       "description": "Bàn Phím 3D Neon Dialer",
@@ -311,6 +311,50 @@
       ],
       "changelog": "Phiên bản đầu tiên.",
       "featured": true,
+      "isPrivate": false
+    },
+    {
+      "identifier": "Locket-gold",
+      "kind": "patch",
+      "name": "Locket",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Nâng Locket miễn phí,vĩnh viễn",
+      "description": "Cách nâng Locket mới nhất \nBước 1: Cài Patch từ Repo này về \nBước 2: Copy nguyên đoạn dữ liệu subscriber \nBước 3: Truy cập web https://dangdi.dev/locket/ \nBước 4: Dán dòng chữ vừa nãy copy vào mục dữ liệu json \nBước 5: Nhấn xử lý dữ liệu và bấm vào sao chép \nBước 6: Dán dòng code vừa copy vào mục dữ liệu subscriber hồi nãy \nBước 7: Áp dụng patch và tận hưởng thành quả🔥",
+      "category": "Patch",
+      "tags": [
+        "Patch"
+      ],
+      "publishedAt": "2026-09-06T10:00:00Z",
+      "icon": "assets/ANH10.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/LocketCustom.3105",
+      "sha256": "5ae759dcefdcfc265bd071040d948de174d1e6531b1ff898f032dfe273e3502c",
+      "password": "3105",
+      "size": 3697,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
       "isPrivate": false
     }
   ]
