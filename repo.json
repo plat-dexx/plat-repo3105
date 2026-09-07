@@ -358,25 +358,25 @@
       "isPrivate": false
     },
     {
-      "identifier": "HackFF.3105",
+      "identifier": "Định Vị Trắng.3105",
       "kind": "patch",
-      "name": "Hack FF Max Cân Rank",
+      "name": "Hack Định Vị FF Max Cân Rank",
       "author": "PlatDex",
       "version": "1.0.0",
       "summary": "Bản Hack FF Max Cân Rank.",
       "description": " Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Vào Huấn Luyện \nBước4: Vào 3105 Áp Dụng Patch \nThoát Huấn Luyện Vào Rank Trải Nghiệm \nLưu Ý : Mỗi Lần Vào Trận Mới Phải Vô 3105 Áp Dụng Patch Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Game Cheat PlatDexx",
+      "category": "Game Cheat PlatDex",
       "tags": [
-        "Game Cheat PlatDexx"
+        "Game Cheat PlatDex"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
       "icon": "assets/ANH11.png",
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "packages/HackFF.3105",
-      "sha256": "e9138ffad0187873a8b7fdcddf158309e7b88538613db9962fa9f875ea35b2f5",
-      "size": 13242788,
+      "download": "packages/Định Vị Trắng.3105",
+      "sha256": "0dcca5f23b201cde614809fe1ac529cc29c86502d8b6113c2f38d238d9a6df42",
+      "size": 13179459,
       "password": "YaBao",
       "supportedOS": [
         {
@@ -410,9 +410,9 @@
       "version": "1.0.0",
       "summary": "Bản HackMapAOV Chấp Tố.",
       "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
-      "category": "Game Cheat PlatDexx",
+      "category": "Game Cheat PlatDex",
       "tags": [
-        "Game Cheat PlatDexx"
+        "Game Cheat PlatDex"
       ],
       "publishedAt": "2026-09-07T00:00:00Z",
       "icon": "assets/ANH12.png",
