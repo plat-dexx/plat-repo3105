@@ -403,7 +403,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "Aim Neck.3105",
+      "identifier": "AimNeck.3105",
       "kind": "patch",
       "name": "Hack Aim Neck FF Max",
       "author": "PlatDex",
@@ -419,7 +419,7 @@
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "packages/Aim Neck.3105",
+      "download": "packages/AimNeck.3105",
       "sha256": "704909974c84b3ed100a1b3954916252cca100a901d9f881308abdda3aa3940d",
       "size": 64020,
       "password": "nmkiosvn",
