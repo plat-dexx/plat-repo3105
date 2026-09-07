@@ -403,6 +403,51 @@
       "isPrivate": false
     },
     {
+      "identifier": "Aim Neck.3105",
+      "kind": "patch",
+      "name": "Hack Aim Neck FF Max",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Hack Aim Neck FF Max.",
+      "description": " Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Vào Huấn Luyện \nBước4: Vào 3105 Áp Dụng Patch \nThoát Huấn Luyện Vào Rank Trải Nghiệm \nLưu Ý : Mỗi Lần Vào Trận Mới Phải Vô 3105 Áp Dụng Patch Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Game Cheat PlatDex",
+      "tags": [
+        "Game Cheat PlatDex"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH11.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/Aim Neck.3105",
+      "sha256": "704909974c84b3ed100a1b3954916252cca100a901d9f881308abdda3aa3940d",
+      "size": 64020,
+      "password": "nmkiosvn",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
+    },
+    {
       "identifier": "HackMapAOV.3105",
       "kind": "patch",
       "name": "HackMapAOV Chấp Tố",
