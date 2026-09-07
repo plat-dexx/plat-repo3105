@@ -358,7 +358,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "Định Vị Trắng.3105",
+      "identifier": "DinhViWhite.3105",
       "kind": "patch",
       "name": "Hack Định Vị FF Max Cân Rank",
       "author": "PlatDex",
@@ -374,7 +374,7 @@
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "packages/Định Vị Trắng.3105",
+      "download": "packages/DinhViWhite.3105",
       "sha256": "0dcca5f23b201cde614809fe1ac529cc29c86502d8b6113c2f38d238d9a6df42",
       "size": 13179459,
       "password": "YaBao",
