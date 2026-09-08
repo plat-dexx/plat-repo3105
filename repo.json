@@ -403,6 +403,51 @@
       "isPrivate": false
     },
     {
+      "identifier": "MODSKIN-MAP.3105",
+      "kind": "patch",
+      "name": "Bản Modskin+Map AOV Plat Dex",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản ModSkin+Map AOV Chấp Tố.",
+      "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \n Lưu Ý : \nHết Trận Khôi Phục Patch /nÁp Dụng Lại Patch \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Game Cheat PlatDex",
+      "tags": [
+        "Game Cheat PlatDex"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH12.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/MODSKIN-MAP.3105",
+      "sha256": "b255fce4a9207ec3e839f7bd7e198a3d21a2681f29c38624bdd1f13c04812efc",
+      "size": 134838,
+      "password": "1234bannei",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
+    },
+    {
       "identifier": "DinhViWhite.3105",
       "kind": "patch",
       "name": "Hack Định Vị FF Max",
