@@ -358,6 +358,51 @@
       "isPrivate": false
     },
     {
+      "identifier": "HackMapAOV.3105",
+      "kind": "patch",
+      "name": "HackMapAOV Chấp Tố",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản HackMapAOV Chấp Tố.",
+      "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Game Cheat PlatDex",
+      "tags": [
+        "Game Cheat PlatDex"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH12.png",
+      "screenshots": [
+        "assets/ANH6.png"
+      ],
+      "download": "packages/HackMapAOV.3105",
+      "sha256": "85748555ae5f8ece18522fa26a93f25d326b56aabcd4610d386f974d34b37da7",
+      "size": 138957,
+      "password": "PlatDex",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
+    },
+    {
       "identifier": "DinhViWhite.3105",
       "kind": "patch",
       "name": "Hack Định Vị FF Max",
@@ -448,26 +493,26 @@
       "isPrivate": false
     },
     {
-      "identifier": "HackMapAOV.3105",
+      "identifier": "HackPUPG.3105",
       "kind": "patch",
-      "name": "HackMapAOV Chấp Tố",
+      "name": "Hack PUBG Mobile",
       "author": "PlatDex",
       "version": "1.0.0",
-      "summary": "Bản HackMapAOV Chấp Tố.",
-      "description": "Cách Chơi: \nBước1: Vào Game Tải Đủ Tài Nguyên \nBước2: Vào App 3105 \nBước3: Áp Dụng Patch \nBước4: Thoát Game Xoá Đa Nhiệm Vào Lại \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "summary": "Bản Hack PUBG Mobile Chấp Tố.",
+      "description": "Mô Tả : \nFull Hack ESP \nFull Hack AIMBOT \nFull Mod Skin \nWall \nMagic Bullet",
       "category": "Game Cheat PlatDex",
       "tags": [
         "Game Cheat PlatDex"
       ],
-      "publishedAt": "2026-09-07T00:00:00Z",
-      "icon": "assets/ANH12.png",
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "icon": "assets/ANH13.png",
       "screenshots": [
         "assets/ANH6.png"
       ],
-      "download": "packages/HackMapAOV.3105",
-      "sha256": "85748555ae5f8ece18522fa26a93f25d326b56aabcd4610d386f974d34b37da7",
-      "size": 138957,
-      "password": "PlatDex",
+      "download": "packages/HackPUPG.3105",
+      "sha256": "6066d4672c55419dfe2007671a35d597516661b393baf731a4c95064228180a8",
+      "size": 37279,
+      "password": "YB",
       "supportedOS": [
         {
           "minimum": "17.0",
