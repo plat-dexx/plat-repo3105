@@ -20,7 +20,7 @@
       "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/ANH3.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/wanglin.tendies",
       "sha256": "7d6bad0484f914fb6c9c7a929c39ce03d6ac57b242cbfa31c228c5021862c5d3",
@@ -64,7 +64,7 @@
       "publishedAt": "2026-08-21T10:00:00Z",
       "icon": "assets/ANH4.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/CapcutPro.3105",
       "sha256": "79d17fb95fbe667621793442e916e12cdfb48c4e136335e850144e4273fc8430",
@@ -109,7 +109,7 @@
       "publishedAt": "2026-08-30T10:00:00Z",
       "icon": "assets/ANH5.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/DazzCamPro.3105",
       "sha256": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
@@ -154,7 +154,7 @@
       "publishedAt": "2026-09-05T10:00:00Z",
       "icon": "assets/ANH9.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/3D Neon.3105",
       "sha256": "397dbd675eb65257293b8d4fd1ad864fa794fea10f401193e70ebba0a9f6e3cc",
@@ -198,7 +198,7 @@
       "publishedAt": "2026-09-06T10:00:00Z",
       "icon": "assets/ANH10.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/LocketCustom.3105",
       "sha256": "5ae759dcefdcfc265bd071040d948de174d1e6531b1ff898f032dfe273e3502c",
@@ -242,7 +242,7 @@
       "publishedAt": "2026-09-07T00:00:00Z",
       "icon": "assets/ANH12.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/HackMapAOV.3105",
       "sha256": "85748555ae5f8ece18522fa26a93f25d326b56aabcd4610d386f974d34b37da7",
@@ -287,7 +287,7 @@
       "publishedAt": "2026-09-07T00:00:00Z",
       "icon": "assets/ANH12.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/MODSKIN-MAP.3105",
       "sha256": "b255fce4a9207ec3e839f7bd7e198a3d21a2681f29c38624bdd1f13c04812efc",
@@ -332,7 +332,7 @@
       "publishedAt": "2026-09-07T00:00:00Z",
       "icon": "assets/ANH11.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/AIMMAGIC-GUNTRANG.3105",
       "sha256": "e9138ffad0187873a8b7fdcddf158309e7b88538613db9962fa9f875ea35b2f5",
@@ -377,7 +377,7 @@
       "publishedAt": "2026-09-08T00:00:00Z",
       "icon": "assets/ANH13.png",
       "screenshots": [
-        "assets/ANH6.png"
+        "assets/ANH0.png"
       ],
       "download": "packages/HackPUPG.3105",
       "sha256": "6066d4672c55419dfe2007671a35d597516661b393baf731a4c95064228180a8",
