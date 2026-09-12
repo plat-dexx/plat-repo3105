@@ -363,6 +363,96 @@
       "isPrivate": false
     },
     {
+      "identifier": "ESP FFTH.3105",
+      "kind": "patch",
+      "name": "Hack ESP Free Fire Thường",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Hack FF Max Chấp Tố.",
+      "description": " Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Vào Huấn Luyện \nBước4: Vào 3105 Áp Dụng Patch \nThoát Huấn Luyện Vào Rank Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Game Cheat PlatDex",
+      "tags": [
+        "Game Cheat PlatDex"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH11.png",
+      "screenshots": [
+        "assets/ANH0.png"
+      ],
+      "download": "packages/ESP FFTH.3105",
+      "sha256": "47b6fffb0634cd2bde941cab6bec5b088760cb9d0f2d8d0125b728a0e6ad1790",
+      "size": 3492590,
+      "password": "@imnot_hd",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
+    },
+    {
+      "identifier": "ESP FFM.3105",
+      "kind": "patch",
+      "name": "Hack ESP Free Fire Max",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Hack FF Max Chấp Tố.",
+      "description": " Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Vào Huấn Luyện \nBước4: Vào 3105 Áp Dụng Patch \nThoát Huấn Luyện Vào Rank Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Game Cheat PlatDex",
+      "tags": [
+        "Game Cheat PlatDex"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH11.png",
+      "screenshots": [
+        "assets/ANH0.png"
+      ],
+      "download": "packages/ESP FFM.3105",
+      "sha256": "2fddb61e9d7f779b085883d36792e196373e7e705772df7c3082d2cdda771a01",
+      "size": 3555021,
+      "password": "@imnot_hd",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
+    },
+    {
       "identifier": "HackPUPG.3105",
       "kind": "patch",
       "name": "Hack PUBG Mobile",
