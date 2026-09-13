@@ -363,7 +363,7 @@
       "isPrivate": false
     },
     {
-      "identifier": "Aim-Magic.3105",
+      "identifier": "AIMLOCK-FFTH.3105",
       "kind": "patch",
       "name": "Hack Aim Magic FFMax Chấp Tố",
       "author": "PlatDex",
@@ -379,10 +379,10 @@
       "screenshots": [
         "assets/ANH0.png"
       ],
-      "download": "packages/Aim-Magic.3105",
-      "sha256": "f2180e36f57b6986c47c6c6f576067795aefbac57b368f965164e5d50b48d86e",
-      "size": 63962,
-      "password": "nmkiosvn",
+      "download": "packages/AIMLOCK-FFTH.3105",
+      "sha256": "3103a44d6ebc801291f8c0640855407062dbfc93e383c695ae167e4642892559",
+      "size": 9240,
+      "password": "@imnot_hd",
       "supportedOS": [
         {
           "minimum": "17.0",
