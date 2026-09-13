@@ -361,6 +361,51 @@
       "changelog": "Phiên bản đầu tiên.",
       "featured": false,
       "isPrivate": false
+    },
+    {
+      "identifier": "AIMLOCK-FFM.3105",
+      "kind": "patch",
+      "name": "Hack AIMLOCK FFM Chấp Tố",
+      "author": "PlatDex",
+      "version": "1.0.0",
+      "summary": "Bản Hack AIMLOCK FFM Chấp Tố.",
+      "description": "Cách Chơi Hack Anti Ban \nBước1: Cài NextDNS Trong Kênh \nBước2: Bật Vpn NextDNS Lên \nBước3: Vào Game Đứng Sảnh \nBước4: Vào 3105 Áp Dụng Patch \nThoát Game Vào Lại Và Trải Nghiệm \nChúc Ae Trải Nghiệm Vui Vẻ",
+      "category": "Game Cheat PlatDex",
+      "tags": [
+        "Game Cheat PlatDex"
+      ],
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "icon": "assets/ANH11.png",
+      "screenshots": [
+        "assets/ANH0.png"
+      ],
+      "download": "packages/AIMLOCK-FFM.3105",
+      "sha256": "ded3b4474536929414d73b81b7cc00514ad177b4244d4d2febe2e3a902a113ab",
+      "size": 9240,
+      "password": "@imnot_hd",
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "changelog": "Phiên bản đầu tiên.",
+      "featured": false,
+      "isPrivate": false
     }
   ]
 }
